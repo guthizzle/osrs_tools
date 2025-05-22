@@ -192,13 +192,13 @@ class DpsSpec:
         return (
             f"\n------------------------\n"
             f"DPS Spec:\n"
-            f"  DPS: {self.spec_dps:.2f}\n"
-            f"  Expected Damage: {self.spec_dmg:.2f}\n"
+            f"  DPS: {self.spec_dps:.5f}\n"
+            f"  Expected Damage: {self.spec_dmg:.5f}\n"
             f"  Attack Speed: {self.attack_speed:.2f}s\n"
             f"  Cost: {self.spec_cost}\n"
-            f"  Damage Efficiency: {self.spec_efficiency:.2f}\n"
+            f"  Damage Efficiency: {self.spec_efficiency:.5f}\n"
             f"  Time Save: {self.spec_time_save:.2f}s\n"
-            f"  Time Efficiency: {self.spec_time_save_efficiency:.2f}"
+            f"  Time Efficiency: {self.spec_time_save_efficiency:.5f}"
             f"\n------------------------\n"
         )
 

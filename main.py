@@ -4,14 +4,14 @@ import specs.dps_spec as dpsSpecs
 def main():
     main_dps = 10.17482
 
-    vw_dps = 22.5
-    vw_hit = 52.5
+    vw_dps = 21.042
+    vw_hit = 30.5
 
-    claw_dps = 25.96198
-    claw_hit = 60.80876
+    claw_dps = 23.077
+    claw_hit = 55.4
 
-    burn_claw_dps = 20.70089
-    burn_claw_hit = 48.18214
+    burn_claw_dps = 18.598
+    burn_claw_hit = 44.6
 
     spec = dpsSpecs.DpsSpec(
         spec_dps=vw_dps,

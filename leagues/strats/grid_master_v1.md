@@ -1,19 +1,27 @@
 Strategy basic concept is starting off with fast fancy boots and runes into GG rush, picking up some free xp and relics on the way
-After that we transisition into a big emphasis on 0 time abuse of the equalibrium relics, magic > att/range, fletching into herb / rc (depending on utility of rc might be useless) 3rd option is thieving > agility(this is the 0 time if boots) / mining
+After that we transiition into 0 time abuse of the equalibrium relics, magic > str/range, fletching > herb / rc (depending on utility of rc might be useless) 3rd option is thieving > agility(this is the 0 time if boots) / mining
 
 - [ ] Complete the tutorial - Choose `Lumberjack`
 - [ ] Grab a `jug of water, Knife and some logs`
 - [ ] Count Check to barbarian village
 - [ ] Grab some meat and then finish stronghold of security
-- [ ] Run to Varrock
-      Check if Children of the Sun is auto'd
-      Turn on FM from woodcutting
+- [ ] Run to Varrock  
+  <details open>
+  <summary>Notes</summary>
+
+  - Check if *Children of the Sun* is auto'd  
+  - Turn on FM from woodcutting  
+
+  </details>
 - [ ] Buy a `staff of air`
 - [ ] Buy a house
 - [ ] Buy `500 Mind runes, 50 Water Runes`
       Air strike anything you run past, use water strike on lesser demon if not cringe
 - [ ] **BANK**
+  <details open>
+  <summary>Notes</summary>
       Inv: `Air staff, Mind Runes, Water runes, coins, axe `
+  </details>
 - [ ] Home teleport - (**DIS**)
 - [ ] Grab a `jug of water` and some `logs` if we couldnt get earlier
 - [ ] Head to Wizard's tower to check the demon
@@ -25,7 +33,10 @@ After that we transisition into a big emphasis on 0 time abuse of the equalibriu
 - [ ] Head to port khazard, buy a swamp paste
 - [ ] Complete sea slug (**BLR**)
 - [ ] Chronicle and head to Varlamore (**AIS**)
+  <details open>
+  <summary>Notes</summary>
       CHECK IF CHILDREN OF THE SUN IS DONE. IF NOT, COMPLETE
+  </details>
 - [ ] bird to Auburnvale, chop a maple log and take `Powerminer` (**AIS**)
 - [ ] head to crab, train mining until it's nearly dead
 - [ ] Witness the crab moving - Gatherer on `Mining, Agility & Thieving`
@@ -45,22 +56,31 @@ After that we transisition into a big emphasis on 0 time abuse of the equalibriu
 - [ ] Head to ardy, bank all then die to spawn in lumbridge (**Zanaris > Lumbridge**)
 - [ ] Head to Tempoross
 - [ ] **BANK:**
+  <details open>
+  <summary>Notes</summary>
       Inv: runes, coins, alchs, chronicle, knife
+  </details>
 - [ ] Subdue Tempoross, Craftsman on `Fletching, Herblore, Runecraft(Crafting if useless)`
 - [ ] Buy `100k+ feathers`
 - [ ] Head to Al Kharid and buy `Chisel and all useful moulds`
 - [ ] Train Crafting to 50
 - [ ] Chronicle to Varrock, head to Edgeville
+  <details open>
+  <summary>Notes</summary>
       Skip this and just fairy ring to **ALS** if it's unlocked and buy laws later at mage's guild
+  </details>
 - [ ] Create a ruby amulet
 - [ ] Go to mage bank and buy `Law Runes and Cosmic Runes`
 - [ ] Teleport to Camelot, head to Ranging guild
 - [ ] Buy `~50k headless arrowshafts`
 - [ ] Head to catherby and buy `arrow tips for 55 fletching, ~`
+  <details open>
+  <summary>Notes</summary>
       380 Bronze
       880 Iron
       1930 Steel
       2810 Mithril
+  </details>
 
 You now have 2/3 0 time xp solutions and are already set up to work on any other tile
 By now should have 500 total for lamp, probably use on Slayer or Hunter. Slayer jumps you to atleast 52 for jelly bursting and hunter will very nearly unlock grey chins if only 5x

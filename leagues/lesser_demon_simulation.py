@@ -1,10 +1,11 @@
-import accuracy.magic_accuracy as ma
 import random
 import utils.xp_table as exp
 import dps.damage as dmg
+import accuracy.magic_accuracy as ma
 from typing import Tuple
 
 
+# Potentially separate into its own simulation module? - unsure if overkill since its pretty specific
 def simulate_kill(
     monster_hp: int,
     start_magic_level: int = 1,

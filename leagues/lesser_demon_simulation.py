@@ -1,83 +1,8 @@
 import accuracy.magic_accuracy as ma
 import random
+import utils.xp_table as exp
+import dps.damage as dmg
 from typing import Tuple
-
-
-def hit_chance(mar: float, mdr: float) -> float:
-    if mar > mdr:
-        return 1 - (mdr + 2) / (2 * (mar + 1))
-    else:
-        return mar / (2 * (mdr + 1))
-
-
-def roll_hit(mar: float, mdr: float, max_hit: int) -> int:
-    """Roll whether an attack hits and how much damage it deals.
-
-    Args:
-        mar: Magic Attack Roll
-        mdr: Monster Defense Roll
-        max_hit: Maximum hit potential
-
-    Returns damage (1,1,..max_hit)
-    """
-    chance = hit_chance(mar, mdr)
-    rng = random.random()
-    if rng <= chance:
-        dmg = random.randint(0, max_hit)
-        return 1 if dmg == 0 else dmg
-    return 0
-
-
-def define_xp_table() -> list[int]:
-    """
-    Define and return the XP table for levels 1 to 99.
-
-    Returns:
-        list[int]: A list where the index represents the level and the value at that index represents the cumulative XP required for that level.
-    """
-    xp_table = [0]  # xp required for level 1 = 0
-    cumulative = 0
-    for lvl in range(1, 100):
-        increment = int((lvl + 300 * (2 ** (lvl / 7.0))) // 1)
-        cumulative += increment
-        xp_table.append(cumulative // 4)  # OSRS uses cumulative/4
-    return xp_table
-
-
-def check_level(xp: float, xp_table: list[int]) -> int:
-    level = 1
-
-    for lvl in range(1, len(xp_table) + 1):
-        required = xp_table[lvl - 1]
-        if xp >= required:
-            level = lvl
-        else:
-            break
-
-    return level
-
-
-def check_xp(level: int, xp_table: list[int]) -> int:
-    """
-    Given a level, return the cumulative XP required for that level.
-
-    Args:
-        level (int): The level to check (1-99).
-
-    Returns:
-        int: The cumulative XP required for the given level.
-
-    Raises:
-        ValueError: If the level is out of bounds (less than 1 or greater than 99).
-
-    """
-    for lvl in range(1, len(xp_table) + 1):
-        if lvl == level:
-            return xp_table[lvl - 1]
-        elif lvl > level:  # if level's too small
-            raise ValueError(f"Level {level} is out of bounds for the XP table.")
-        elif level > len(xp_table):  # if level's too high
-            raise ValueError(f"Level {level} is out of bounds for the XP table.")
 
 
 def simulate_kill(
@@ -113,10 +38,12 @@ def simulate_kill(
 
     acc = ma.MagicAccuracy()
 
-    xp_table = define_xp_table()
+    xp_table = exp.generate_xp_table()
 
     casts = 0
-    xp = check_xp(start_magic_level, xp_table)  # total cumulative XP in the magic skill
+    xp = exp.get_xp(
+        start_magic_level, xp_table
+    )  # total cumulative XP in the magic skill
     magic_level = start_magic_level
     max_hit = start_max_hit
 
@@ -136,7 +63,7 @@ def simulate_kill(
     hp = monster_hp
 
     while hp > 0:
-        magic_level = check_level(xp, xp_table)
+        magic_level = exp.get_level(xp, xp_table)
 
         if magic_level < 4:
             max_hit = 2
@@ -160,12 +87,12 @@ def simulate_kill(
         )
 
         # roll hit
-        dmg = roll_hit(mar, mdr, max_hit)
-        hp -= dmg
+        dam = dmg.roll_hit(mar, mdr, max_hit)
+        hp -= dam
 
         # gain xp
-        dmg_xp = dmg * 2 * xp_multiplier
-        xp += xp_per_cast * xp_multiplier + dmg_xp
+        dam_xp = dam * 2 * xp_multiplier
+        xp += xp_per_cast * xp_multiplier + dam_xp
 
         casts += 1
 
@@ -202,4 +129,4 @@ def simulate(rounds: int = 1000, xp_multiplier: float = 5):
 
 if __name__ == "__main__":
     simulate(rounds=100000, xp_multiplier=5)
-    simulate(rounds=100000, xp_multiplier=16)
+    # simulate(rounds=100000, xp_multiplier=16)

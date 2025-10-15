@@ -10,6 +10,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Count Check to barbarian village
 - [ ] Grab some meat(world hop if there's not many players here) and then finish stronghold off security
 - [ ] Run to Varrock
+
   <details open>
   <summary>Notes</summary>
 
@@ -21,6 +22,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Buy a `staff of air`
 - [ ] Buy a house
 - [ ] Buy `500 Mind runes, 50 Water Runes`
+
   <details open>
   <summary>Notes</summary>
 
@@ -29,6 +31,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
   </details>
 
 - [ ] **BANK**
+
   <details open>
   <summary>Notes</summary>
 
@@ -37,6 +40,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
   </details>
 
 - [ ] Fairy's flight to gnome stronghold and do the gnomeball tile
+- [ ] Teleport to CKQ, buy and drink a steamforge brew in the pub
 - [ ] Home teleport - (**DIS**)
 - [ ] Grab a `jug of water` and some `logs` if we couldnt get earlier
 - [ ] Head to Wizard's tower to check the demon
@@ -48,14 +52,8 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Head to port khazard, `buy a swamp paste, 20 sand, 20 soda ash, glassblowing pipe`
 - [ ] Create and blow 5 glass at Ardy Furnace
 - [ ] Complete sea slug (**BLR**)
-  <details open>
-  <summary>Notes</summary>
-
-  If there's an easy to grab Dodgy deals, you should play reactively and grab it then pickpocket Warrior Women > Guards in Ardy until 50 Thieving
-
-  </details>
-
 - [ ] Chronicle and head to Varlamore (**AIS**)
+
   <details open>
   <summary>Notes</summary>
 
@@ -64,6 +62,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
   </details>
 
 - [ ] bird to Auburnvale, chop a maple log and take `Powerminer` (**AIS**)
+
   <details open>
   <summary>Notes</summary>
 
@@ -75,18 +74,11 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Witness the crab moving - Gatherer on `Mining, Agility & Thieving`
 - [ ] Home tele (**AKR**)
 - [ ] head to zanaris and then fairy ring to AKR
-  <details open>
-  <summary>Notes</summary>
-
-  Disregard this if we got thieving in Ardy and fairy ring to AJP
-
-  </details>
-
 - [ ] Mine for 25 Thieving at Pisc or Hosidius
 - [ ] Head to fruit stalls until `~43 Thieving or 51.333k xp & 32 Agility`
-- [ ] Head to Hosidius fairy ring and teleport to AJP
-- [ ] Complete Death on the Isle
-- [ ] Pickpocket a wealthy citizen, unlock `Golden God`
+- [ ] Chronicle, steal from warrior women > 40, Guards > 50
+- [ ] Head to varlamore
+- [ ] Pickpocket wealthy citizens for a key then steal valuables, unlock `Golden God`
 - [ ] Alch platebodies from the blacksmith in Civitas Illa Fortis until ~200k
 - [ ] get ~1b cash from stonemason and a large stack of alchs for 0 time
 - [ ] Fairy ring from the savannah to AIQ
@@ -97,10 +89,11 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Head to ardy, Grab dramen staff then fairy ring to Zanaris and head to Lumbridge (**Zanaris > Lumbridge**)
 - [ ] Head to Tempoross
 - [ ] **BANK:**
+
   <details open>
   <summary>Notes</summary>
 
-      Inv: runes, coins, alchs, chronicle, knife
+  Inv: runes, coins, alchs, chronicle, knife
 
   </details>
 
@@ -111,10 +104,13 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Chronicle to Varrock, head to Edgeville
 - [ ] Create a ruby amulet - Enchant when you have the level
 - [ ] Go to mage bank and buy `Law Runes and Cosmic Runes`
-- [ ] Head back to Edgeville, Buy a `rune platebody & green dhide body` then Fairy ring to ALS
+- [ ] Head back to Edgeville, Buy a `rune platebody & green dhide body`
+- [ ] Kill men for 3 herbs and clean them
+- [ ] Fairy ring to ALS
 - [ ] Head to Ranging guild
 - [ ] Buy `~50k headless arrowshafts`
 - [ ] Head to catherby and buy `arrow tips for ~40 fletching`
+
   <details open>
   <summary>Notes</summary>
 
@@ -128,16 +124,18 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Buy `~10k Raw karambwan and a bunch of karambwanji`
 - [ ] Minigame tele to Burthorpe, cook Karambwan until 68 at rogue's den
 - [ ] **BANK**
+
   <details open>
   <summary>Notes</summary>
 
-      Inv: Food, axe, coins, chronicle
+  Inv: Food, axe, coins, chronicle
 
   </details>
 
 - [ ] Chronicle
 - [ ] Buy `green dhide chaps and vambs` in the champions guild
 - [ ] Buy your `highest bow - yew and some arrows, studded if you need`
+- [ ] Buy a bunch of runes while we're here
 - [ ] Kill Scurrius
 - [ ] Kill mossgiants for a a key
 - [ ] Kill bryophyta
@@ -175,3 +173,7 @@ v1.2
 - Added section for cooking
 - Adjust amounts and level of fletching training, production prodigy allows us to make broads earlier
 - Add some fairy's flight pathing
+
+v1.3
+
+- Added in some small released relics into the route

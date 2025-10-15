@@ -36,12 +36,13 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 
   </details>
 
+- [ ] Fairy's flight to gnome stronghold and do the gnomeball tile
 - [ ] Home teleport - (**DIS**)
 - [ ] Grab a `jug of water` and some `logs` if we couldnt get earlier
 - [ ] Head to Wizard's tower to check the demon
 - [ ] Head to draynor and buy `10-20 wines`
 - [ ] Buy `chronicle and 10 pages`
-- [ ] Take the boat to ardy (**DJP**)
+- [ ] Take the boat to ardy (**DJP/Khazard Battlefield**)
 - [ ] Head toward hazeel, complete hazeel cult (side with hazeel) and monks friend
 - [ ] Chop trees until 45 wc and atleast 30 fm - Oaks then Willows
 - [ ] Head to port khazard, `buy a swamp paste, 20 sand, 20 soda ash, glassblowing pipe`
@@ -92,7 +93,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Train til 43 prayer at the chapel
 - [ ] Head to Rimmington
 - [ ] Mine some gold, unlock `Animal Wrangler`
-- [ ] Head to Corsair cove and Kill an Ogress Shaman, unlock Combatant on `Magic, Range, Str` (**Spirit Tree**)
+- [ ] Head to Corsair cove and Kill an Ogress, unlock Combatant on `Magic, Range, Str` (**Spirit Tree**)
 - [ ] Head to ardy, Grab dramen staff then fairy ring to Zanaris and head to Lumbridge (**Zanaris > Lumbridge**)
 - [ ] Head to Tempoross
 - [ ] **BANK:**
@@ -110,24 +111,40 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Chronicle to Varrock, head to Edgeville
 - [ ] Create a ruby amulet - Enchant when you have the level
 - [ ] Go to mage bank and buy `Law Runes and Cosmic Runes`
-- [ ] Head back to Edgeville, Buy a rune platebody and Fairy ring to ALS
+- [ ] Head back to Edgeville, Buy a `rune platebody & green dhide body` then Fairy ring to ALS
 - [ ] Head to Ranging guild
 - [ ] Buy `~50k headless arrowshafts`
-- [ ] Head to catherby and buy `arrow tips for 55 fletching`
+- [ ] Head to catherby and buy `arrow tips for ~40 fletching`
   <details open>
   <summary>Notes</summary>
 
   - 380 Bronze
   - 880 Iron
-  - 1930 Steel
-  - 2810 Mithril
+  - 1900 Steel
 
   </details>
 
+- [ ] Boat to Karamja while fletching
+- [ ] Buy `~10k Raw karambwan and a bunch of karambwanji`
+- [ ] Minigame tele to Burthorpe, cook Karambwan until 68 at rogue's den
+- [ ] **BANK**
+  <details open>
+  <summary>Notes</summary>
+
+      Inv: Food, axe, coins, chronicle
+
+  </details>
+
+- [ ] Chronicle
+- [ ] Buy `green dhide chaps and vambs` in the champions guild
+- [ ] Buy your `highest bow - yew and some arrows, studded if you need`
+- [ ] Kill Scurrius
+- [ ] Kill mossgiants for a a key
+- [ ] Kill bryophyta
+
 You now have 2/3 0 time xp solutions and are already set up to work on any other tile
 By now should have 500 total for lamp, probably use on Slayer or Hunter. Slayer jumps you to atleast 52 for jelly bursting and hunter will very nearly unlock grey chins if only 5x
-Immediate next step should really be getting a bryo kc which should be pretty easy
-Next steps after that are probably work on fishing for Corrupted shark to have unlimited food, work on xp multipliers and any other extremely powerful and easy to get relics
+Next steps are Corrupted shark to have unlimited food, work on xp multipliers and any other extremely powerful and easy to get relics
 after fish grabbing an msb/rcb and sending fire cape + w32 inferno unlocks slayer
 
 Con + farming solution is bagged plants
@@ -152,3 +169,9 @@ v1.1
 - Remove Ardy death tp in favour of fairy ring
 - Various Fairy ring routing added to skip long unproductive travelling
 - Added contingency routing in notes if we can get dodgy deals easily.
+
+v1.2
+
+- Added section for cooking
+- Adjust amounts and level of fletching training, production prodigy allows us to make broads earlier
+- Add some fairy's flight pathing

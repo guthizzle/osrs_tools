@@ -1,4 +1,4 @@
-Version 1.1
+Version 1.3
 
 Strategy basic concept is starting off with fast fancy boots and runes into GG rush, picking up some free xp and relics on the way
 After that we transiition into 0 time abuse of the equalibrium relics, magic > str/range, fletching > herb / rc (depending on utility of rc might be useless) 3rd option is thieving > agility(this is the 0 time if boots) / mining

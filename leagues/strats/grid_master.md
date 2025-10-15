@@ -1,12 +1,14 @@
+Version 1.1
+
 Strategy basic concept is starting off with fast fancy boots and runes into GG rush, picking up some free xp and relics on the way
 After that we transiition into 0 time abuse of the equalibrium relics, magic > str/range, fletching > herb / rc (depending on utility of rc might be useless) 3rd option is thieving > agility(this is the 0 time if boots) / mining
 
-bold fairy rings and other notes in parenthesis are generally teleports based on speculative relics
+bold fairy rings and other notes in parenthesis are generally teleports based on speculative relics, i.e Fairy's Flight
 
 - [ ] Complete the tutorial - Choose `Lumberjack`
 - [ ] Grab a `jug of water, Knife and some logs`
 - [ ] Count Check to barbarian village
-- [ ] Grab some meat(world hop if there's not many players here) and then finish stronghold of security
+- [ ] Grab some meat(world hop if there's not many players here) and then finish stronghold off security
 - [ ] Run to Varrock
   <details open>
   <summary>Notes</summary>
@@ -22,7 +24,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
   <details open>
   <summary>Notes</summary>
 
-  - Air strike anything you run past, use water strike on lesser demon if not cringe
+  - Air strike anything you run past, use water strike on lesser demon if the line isn't cringe
 
   </details>
 
@@ -45,6 +47,13 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Head to port khazard, `buy a swamp paste, 20 sand, 20 soda ash, glassblowing pipe`
 - [ ] Create and blow 5 glass at Ardy Furnace
 - [ ] Complete sea slug (**BLR**)
+  <details open>
+  <summary>Notes</summary>
+
+  If there's an easy to grab Dodgy deals, you should play reactively and grab it then pickpocket Warrior Women > Guards in Ardy until 50 Thieving
+
+  </details>
+
 - [ ] Chronicle and head to Varlamore (**AIS**)
   <details open>
   <summary>Notes</summary>
@@ -65,16 +74,23 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Witness the crab moving - Gatherer on `Mining, Agility & Thieving`
 - [ ] Home tele (**AKR**)
 - [ ] head to zanaris and then fairy ring to AKR
+  <details open>
+  <summary>Notes</summary>
+
+  Disregard this if we got thieving in Ardy and fairy ring to AJP
+
+  </details>
+
 - [ ] Mine for 25 Thieving at Pisc or Hosidius
 - [ ] Head to fruit stalls until `~43 Thieving or 51.333k xp & 32 Agility`
 - [ ] Head to Hosidius fairy ring and teleport to AJP
 - [ ] Complete Death on the Isle
 - [ ] Pickpocket a wealthy citizen, unlock `Golden God`
-- [ ] Alch platebodies until ~200k
+- [ ] Alch platebodies from the blacksmith in Civitas Illa Fortis until ~200k
 - [ ] get ~1b cash from stonemason and a large stack of alchs for 0 time
-- [ ] Home tele (**AIQ**)
-- [ ] Train til 43 prayer
-- [ ] Head to rimmington
+- [ ] Fairy ring from the savannah to AIQ
+- [ ] Train til 43 prayer at the chapel
+- [ ] Head to Rimmington
 - [ ] Mine some gold, unlock `Animal Wrangler`
 - [ ] Head to Corsair cove and Kill an Ogress Shaman, unlock Combatant on `Magic, Range, Str` (**Spirit Tree**)
 - [ ] Head to ardy, Grab dramen staff then fairy ring to Zanaris and head to Lumbridge (**Zanaris > Lumbridge**)
@@ -92,7 +108,7 @@ bold fairy rings and other notes in parenthesis are generally teleports based on
 - [ ] Head to Al Kharid and buy `Chisel and all useful moulds`
 - [ ] Train Crafting to 38 at gem stall
 - [ ] Chronicle to Varrock, head to Edgeville
-- [ ] Create a ruby amulet
+- [ ] Create a ruby amulet - Enchant when you have the level
 - [ ] Go to mage bank and buy `Law Runes and Cosmic Runes`
 - [ ] Head back to Edgeville, Buy a rune platebody and Fairy ring to ALS
 - [ ] Head to Ranging guild
@@ -135,3 +151,4 @@ v1.1
 - Various grammar and generally better formatting
 - Remove Ardy death tp in favour of fairy ring
 - Various Fairy ring routing added to skip long unproductive travelling
+- Added contingency routing in notes if we can get dodgy deals easily.

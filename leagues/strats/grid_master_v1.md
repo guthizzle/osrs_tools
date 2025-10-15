@@ -1,85 +1,111 @@
 Strategy basic concept is starting off with fast fancy boots and runes into GG rush, picking up some free xp and relics on the way
 After that we transiition into 0 time abuse of the equalibrium relics, magic > str/range, fletching > herb / rc (depending on utility of rc might be useless) 3rd option is thieving > agility(this is the 0 time if boots) / mining
 
+bold fairy rings and other notes in parenthesis are generally teleports based on speculative relics
+
 - [ ] Complete the tutorial - Choose `Lumberjack`
 - [ ] Grab a `jug of water, Knife and some logs`
 - [ ] Count Check to barbarian village
-- [ ] Grab some meat and then finish stronghold of security
-- [ ] Run to Varrock  
+- [ ] Grab some meat(world hop if there's not many players here) and then finish stronghold of security
+- [ ] Run to Varrock
   <details open>
   <summary>Notes</summary>
 
-  - Check if *Children of the Sun* is auto'd  
-  - Turn on FM from woodcutting  
+  - Check if _Children of the Sun_ is auto'd
+  - Turn on FM from woodcutting
 
   </details>
+
 - [ ] Buy a `staff of air`
 - [ ] Buy a house
 - [ ] Buy `500 Mind runes, 50 Water Runes`
-      Air strike anything you run past, use water strike on lesser demon if not cringe
+  <details open>
+  <summary>Notes</summary>
+
+  - Air strike anything you run past, use water strike on lesser demon if not cringe
+
+  </details>
+
 - [ ] **BANK**
   <details open>
   <summary>Notes</summary>
-      Inv: `Air staff, Mind Runes, Water runes, coins, axe `
+
+  Inv: `Air staff, Mind Runes, Water runes, coins, axe, dramen staff`
+
   </details>
+
 - [ ] Home teleport - (**DIS**)
 - [ ] Grab a `jug of water` and some `logs` if we couldnt get earlier
 - [ ] Head to Wizard's tower to check the demon
-- [ ] Head to draynor and buy `X wines`
+- [ ] Head to draynor and buy `10-20 wines`
 - [ ] Buy `chronicle and 10 pages`
 - [ ] Take the boat to ardy (**DJP**)
 - [ ] Head toward hazeel, complete hazeel cult (side with hazeel) and monks friend
 - [ ] Chop trees until 45 wc and atleast 30 fm - Oaks then Willows
-- [ ] Head to port khazard, buy a swamp paste
+- [ ] Head to port khazard, `buy a swamp paste, 20 sand, 20 soda ash, glassblowing pipe`
+- [ ] Create and blow 5 glass at Ardy Furnace
 - [ ] Complete sea slug (**BLR**)
 - [ ] Chronicle and head to Varlamore (**AIS**)
   <details open>
   <summary>Notes</summary>
-      CHECK IF CHILDREN OF THE SUN IS DONE. IF NOT, COMPLETE
+
+  CHECK IF CHILDREN OF THE SUN IS DONE. IF NOT, COMPLETE
+
   </details>
+
 - [ ] bird to Auburnvale, chop a maple log and take `Powerminer` (**AIS**)
+  <details open>
+  <summary>Notes</summary>
+
+  Claim at bank if req
+
+  </details>
+
 - [ ] head to crab, train mining until it's nearly dead
 - [ ] Witness the crab moving - Gatherer on `Mining, Agility & Thieving`
 - [ ] Home tele (**AKR**)
-- [ ] Head to Zeah
-- [ ] Mine for 25 thieving
-- [ ] Head to fruit stalls until `~43 thieving or 51.333k xp & 32 Agility`
-- [ ] Head to Aldarin (**AJP**)
+- [ ] head to zanaris and then fairy ring to AKR
+- [ ] Mine for 25 Thieving at Pisc or Hosidius
+- [ ] Head to fruit stalls until `~43 Thieving or 51.333k xp & 32 Agility`
+- [ ] Head to Hosidius fairy ring and teleport to AJP
 - [ ] Complete Death on the Isle
 - [ ] Pickpocket a wealthy citizen, unlock `Golden God`
-- [ ] get ~1b cash from stonemason and a large stack of alchs
+- [ ] Alch platebodies until ~200k
+- [ ] get ~1b cash from stonemason and a large stack of alchs for 0 time
 - [ ] Home tele (**AIQ**)
 - [ ] Train til 43 prayer
 - [ ] Head to rimmington
 - [ ] Mine some gold, unlock `Animal Wrangler`
 - [ ] Head to Corsair cove and Kill an Ogress Shaman, unlock Combatant on `Magic, Range, Str` (**Spirit Tree**)
-- [ ] Head to ardy, bank all then die to spawn in lumbridge (**Zanaris > Lumbridge**)
+- [ ] Head to ardy, Grab dramen staff then fairy ring to Zanaris and head to Lumbridge (**Zanaris > Lumbridge**)
 - [ ] Head to Tempoross
 - [ ] **BANK:**
   <details open>
   <summary>Notes</summary>
+
       Inv: runes, coins, alchs, chronicle, knife
+
   </details>
+
 - [ ] Subdue Tempoross, Craftsman on `Fletching, Herblore, Runecraft(Crafting if useless)`
 - [ ] Buy `100k+ feathers`
 - [ ] Head to Al Kharid and buy `Chisel and all useful moulds`
-- [ ] Train Crafting to 50
+- [ ] Train Crafting to 38 at gem stall
 - [ ] Chronicle to Varrock, head to Edgeville
-  <details open>
-  <summary>Notes</summary>
-      Skip this and just fairy ring to **ALS** if it's unlocked and buy laws later at mage's guild
-  </details>
 - [ ] Create a ruby amulet
 - [ ] Go to mage bank and buy `Law Runes and Cosmic Runes`
-- [ ] Teleport to Camelot, head to Ranging guild
+- [ ] Head back to Edgeville, Buy a rune platebody and Fairy ring to ALS
+- [ ] Head to Ranging guild
 - [ ] Buy `~50k headless arrowshafts`
-- [ ] Head to catherby and buy `arrow tips for 55 fletching, ~`
+- [ ] Head to catherby and buy `arrow tips for 55 fletching`
   <details open>
   <summary>Notes</summary>
-      380 Bronze
-      880 Iron
-      1930 Steel
-      2810 Mithril
+
+  - 380 Bronze
+  - 880 Iron
+  - 1930 Steel
+  - 2810 Mithril
+
   </details>
 
 You now have 2/3 0 time xp solutions and are already set up to work on any other tile
@@ -99,3 +125,13 @@ fishing afk karambwans, 2t harpoon or 3t barb
 farming just pray for a relic lol
 
 wc + fm, 1.5t/2t teaks
+
+CHANGELOG
+v1.1
+
+- Added in soda ash for 8 crafting
+- Added in how to get cash to start stonemason
+- Adjusted crafting training to 38 due to Production Prodigy, mention where to do it
+- Various grammar and generally better formatting
+- Remove Ardy death tp in favour of fairy ring
+- Various Fairy ring routing added to skip long unproductive travelling

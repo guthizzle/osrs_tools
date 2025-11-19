@@ -1,0 +1,3 @@
+Create an interface here to hold all accuracy styles for easier implementation
+
+Refactor MagicAccuracy(magic_accuracy.py) to utilise previously mentioned interface and fully flesh all aspects of accuracy object.

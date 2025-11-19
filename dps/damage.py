@@ -1,7 +1,7 @@
 import random
 
 
-def _hit_chance(attRoll: float, defRoll: float) -> float:
+def hit_chance(attRoll: float, defRoll: float) -> float:
     """
     Calculate the hit chance based on attack roll and defense roll.
     Private function used internally.
@@ -39,9 +39,9 @@ def roll_hit(attRoll: float, defRoll: float, max_hit: int) -> int:
     Returns:
         int: Damage dealt (1, 1, ..., max_hit) or 0 if the attack misses.
     """
-    chance = _hit_chance(attRoll, defRoll)
+    chance = hit_chance(attRoll, defRoll)
     rng = random.random()
     if rng <= chance:
         dmg = random.randint(0, max_hit)
-        return 1 if dmg == 0 else dmg
+        return 1 if dmg == 0 else dmg  # Ensure we roll from 1,1...max_hit
     return 0

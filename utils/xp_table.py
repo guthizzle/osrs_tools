@@ -48,7 +48,7 @@ def get_xp(level: int, xp_table: list[int]) -> float:
     return 0.0
 
 
-def get_level(xp: float, xp_table: list[int]) -> int:
+def get_level(xp: float, xp_table: list[int]) -> int:  # Optimise, use binary search?
     """
     Given an XP amount, return the corresponding level.
 
